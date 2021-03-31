@@ -1,0 +1,16 @@
+{
+"companyName": "Sarah Brophy",
+"productName": "StrengthInNumbers_Project",
+"productVersion": "0.1",
+"dataUrl": "StrengthInNumbers_Build.data.unityweb",
+"wasmCodeUrl": "StrengthInNumbers_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "StrengthInNumbers_Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
